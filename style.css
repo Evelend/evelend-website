@@ -279,10 +279,6 @@ input[type="submit"]:hover{
     cursor: pointer;
     background: rgba(120,120,120,0.1)
 }
-#contactinfo{
-  width: 46%;
-  float: right;
-}
 #contactinfo p{
   margin: 0;
 }
